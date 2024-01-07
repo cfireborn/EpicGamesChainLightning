@@ -7,8 +7,8 @@ Chain lightning ability demo. 8 January 2023
 
 Primary blueprints: BP_FirstPersonCharacter, Ue4ASP_target. Also wrote CrosshairHUD, but it's a pretty small blueprint.
 
-Cast lightning logic: https://blueprintue.com/blueprint/5za5lsr1/
-Bounce lightning logic: https://blueprintue.com/blueprint/utzffvjn/
+Cast lightning logic: https://blueprintue.com/blueprint/5za5lsr1/  
+Bounce lightning logic: https://blueprintue.com/blueprint/utzffvjn/  
 Die function: https://blueprintue.com/blueprint/19unlgvk/
 
 How to run on PC or Mac:
