@@ -5,7 +5,7 @@ Developed with Unreal Engine 5.0.3
 Chain lightning ability demo. 8 January 2023
 
 
-also CrosshairHUD, but it's a pretty small blueprint.
+Primary blueprints: BP_FirstPersonCharacter, Ue4ASP_target. Also wrote CrosshairHUD, but it's a pretty small blueprint.
 
 How to run on PC or Mac:
 
